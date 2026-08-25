@@ -1,0 +1,4 @@
+langfuse:
+  public-key: ${LANGFUSE_PUBLIC_KEY}
+  secret-key: ${LANGFUSE_SECRET_KEY}
+  base-url: "https://cloud.langfuse.com"
